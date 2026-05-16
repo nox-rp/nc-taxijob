@@ -1,5 +1,5 @@
 {
     "version": "3.0.1",
-    "changelog": "Target system, distance unit config, NPC/payment bug fixes, dispatch UI improvements",
+    "changelog": "AllAllowVehicle & MeterItem system, Target NPC system, DistanceUnit config, Fuel & VehicleKey integration, NPC/payment bug fixes, dispatch UI fixes",
     "download": "https://portal.cfx.re/assets/granted-assets"
 }
