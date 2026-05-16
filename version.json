@@ -1,5 +1,5 @@
 {
-    "version": "3.0.0",
-    "changelog": "Major update: Added Duty system, Garage system, Statistics, Rank system, Tip system, Boss menu. Renamed to nc-taxijob.",
+    "version": "3.0.1",
+    "changelog": "Target system, distance unit config, NPC/payment bug fixes, dispatch UI improvements",
     "download": "https://portal.cfx.re/assets/granted-assets"
 }
