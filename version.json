@@ -1,5 +1,5 @@
 {
-    "version": "3.0.2",
-    "changelog": "Phone App Enhancement — surcharge badge, driver rating stars, ETA, real-time meter, favorites (KVP), ride receipt, call driver (lb-phone), review comments, local map tiles, half-star CSS, install.sql, fxmanifest file registration",
+    "version": "3.0.21",
+    "changelog": "Added automatic taximeter sync and session transfer on plate changes, with improved plate matching stability.",
     "download": "https://portal.cfx.re/assets/granted-assets"
 }
